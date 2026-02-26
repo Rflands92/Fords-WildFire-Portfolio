@@ -1,6 +1,6 @@
 About This Portfolio
 
-This repository contains GIS projects completed as part of my BootcampGIS coursework. Projects focus on spatial analysis, Python scripting with the ArcGIS API, and real-world environmental data. 
+This repository contains GIS projects completed as part of my BootcampGIS coursework, with this class focusing on ArcGIS Enterprise and Server. Projects focus on spatial analysis, Python scripting with the ArcGIS API, and real-world environmental data. I chose to do my projects on a recent Colorado wildfire from 2020. 
 
 ---
 
