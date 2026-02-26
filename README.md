@@ -20,7 +20,8 @@ Description of 3 Public GIS web applications that ste local to Colorado.
 
 Project: East Troublesome Fire (2020) — National Forest Burn Analysis
 
-Overview
+Overview:
+
 The East Troublesome Fire ignited on October 14, 2020 in Grand County, Colorado and became the **second-largest wildfire in Colorado recorded history**, burning over 193,000 acres. This project uses Python and ArcGIS Pro to answer:
 
 - What was the total acreage burned?
